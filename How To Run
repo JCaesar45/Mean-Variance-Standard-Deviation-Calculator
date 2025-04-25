@@ -1,0 +1,25 @@
+How to Run
+Install Requirements
+
+pip install numpy
+Run the Code
+
+python3 main.py
+Run Tests
+
+python3 -m unittest test_module.py
+File Structure
+
+.
+├── main.py
+├── mean_var_std.py
+├── test_module.py
+└── README.md
+License
+This project is part of the freeCodeCamp open-source curriculum.
+
+yaml
+
+---
+
+Let me know if you want a `.zip` version of this, or help pushing it to GitHub!
