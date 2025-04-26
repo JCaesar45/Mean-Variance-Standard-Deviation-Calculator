@@ -1,7 +1,3 @@
-Here's the complete Python project based on your description, structured into the four files: `mean_var_std.py`, `main.py`, `test_module.py`, and `README.md`.
-
----
-
 ### 📄 `mean_var_std.py`
 
 ```python
